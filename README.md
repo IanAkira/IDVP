@@ -1,5 +1,7 @@
 # IDVP
-Identificador de desvantagens e vantagens de pokemons e seus elementos.
+Identificador de desvantagens e vantagens de pokemons.
+
+![640px-0004Charmander](https://github.com/user-attachments/assets/ee2b3a55-0ac5-4905-954f-e2f37e290ea9)
 
 # Objetivo do sistema:
 
