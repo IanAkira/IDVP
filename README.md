@@ -4,13 +4,12 @@ Identificador de desvantagens e vantagens de pokemons.
 ![as](https://github.com/user-attachments/assets/a10c4c3b-a82e-4192-92b5-352a11592602)
 # Objetivo do sistema:
 
-- Identificar as vantagens e desvantagens de cada elemento. 
-
+- Identificar as vantagens e desvantagens de cada elemento do jogo pokemon. Alguns exemplos são: Água, Fogo e Grama.
 
 
 # Funcionalidade principal:
 
-- Visualizar informações dos elementos
+- Visualizar informações dos elementos inseridos no jogo pokemon.
 - Resultado das interações entre si
 
 
