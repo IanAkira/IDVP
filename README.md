@@ -5,14 +5,14 @@ Identificador de desvantagens e vantagens de pokemons e seus elementos.
 
 Identificar as vantagens e desvantagens de cada elemento. 
 
-----------------------------------------------------------------------------------------------------
+
 
 # Funcionalidade principal:
 
 - Visualizar informações dos elementos
 - Resultado das interações entre si
 
-----------------------------------------------------------------------------------------------------
+
 
 # Requisitos funcionais:
 
@@ -29,7 +29,6 @@ com base no elemento escolhido o sistema dará as vantagens e desvantagens do el
 
 Prioridade: Essencial
 
-----------------------------------------------------------------------------------------------------
 
 # Requisitos não funcionais:
 
