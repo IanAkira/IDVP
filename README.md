@@ -1,11 +1,12 @@
 # IDVP
 Identificador de desvantagens e vantagens de pokemons.
 
-![640px-0004Charmander](https://github.com/user-attachments/assets/ee2b3a55-0ac5-4905-954f-e2f37e290ea9)
+![as](https://github.com/user-attachments/assets/a10c4c3b-a82e-4192-92b5-352a11592602)
+
 
 # Objetivo do sistema:
 
-Identificar as vantagens e desvantagens de cada elemento. 
+- Identificar as vantagens e desvantagens de cada elemento. 
 
 
 
@@ -18,14 +19,14 @@ Identificar as vantagens e desvantagens de cada elemento.
 
 # Requisitos funcionais:
 
-[RF001] Selecionar elemento
+- [RF001] Selecionar elemento
 
 o sistema possibilitará a escolha de um elemento.
 
 Prioridade: Essencial
 
 
-[RF002] Identificar vantagens e desvantagens.
+- [RF002] Identificar vantagens e desvantagens.
 
 com base no elemento escolhido o sistema dará as vantagens e desvantagens do elemento selecionado
 
@@ -34,21 +35,21 @@ Prioridade: Essencial
 
 # Requisitos não funcionais:
 
-[RNF001] Acesso
+- [RNF001] Acesso
 
 O Sistema deve estar disponível para acesso do administrador sempre que necessário.
 .
 Prioridade: Essencial.
 
 
-[RNF002] Desempenho
+- [RNF002] Desempenho
 
 O Sistema deve ser otimizado para gerar respostas rápidas, minimizando o tempo de carregamento do software.
 
 Prioridade: Desejável.
 
 
-[RNF003] Confiabilidade
+- [RNF003] Confiabilidade
 
 O Sistema deve ser capaz de lidar com falhas no software e no hardware de forma resiliente de forma que sempre garanta a disponibilidade do programa. 
 
