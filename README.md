@@ -1,9 +1,7 @@
 # IDVP
+
 Identificador de desvantagens e vantagens de pokemons.
-
 ![as](https://github.com/user-attachments/assets/a10c4c3b-a82e-4192-92b5-352a11592602)
-
-
 # Objetivo do sistema:
 
 - Identificar as vantagens e desvantagens de cada elemento. 
@@ -38,7 +36,7 @@ Prioridade: Essencial
 - [RNF001] Acesso
 
 O Sistema deve estar disponível para acesso do administrador sempre que necessário.
-.
+
 Prioridade: Essencial.
 
 
